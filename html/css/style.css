@@ -1,0 +1,64 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+
+nav ul{list-style:none}
+
+blockquote,q{quotes:none}
+
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent;text-decoration:none}
+
+del{text-decoration:line-through}
+
+abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+
+table{border-collapse:collapse;border-spacing:0}
+
+hr {display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+
+input,select { vertical-align:middle}
+
+li { list-style:none }
+
+body {line-height:1; background-color:#181818; font:normal 75% Arial, Helvetica, sans-serif;border: solid;min-width:1000px;height: 1050px;max-height: 1050px;}
+
+a {text-decoration: none; color: black;}
+
+@-webkit-keyframes fadeInOpacity {0% {opacity: 0;}100% {opacity: 1;}}
+
+@keyframes fadeInOpacity {0% {opacity: 0;}100% {opacity: 1;}}
+
+.title {color:#848484;position: absolute;font-size: 60px;left: 10px;}
+
+.left {width: 500px;height: 280px;border: 5px solid #848484;position: absolute;left: 0;top: 0;bottom: 15%;right: 0;margin: auto;text-align: center;}
+
+.htmlpage {text-align: center;  font-size: 25px;color: #848484}
+   
+button {display: block;margin: auto;border: none;color: white;padding: 16px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 22px;transition-duration: 0.4s;cursor: pointer;}
+  
+.button1 {background-color: #353535;color: black; border: 2px solid black;}
+  
+.button1:hover {background-color: #8b8b8b;color: white;}
+
+.buttons {width: 300px;height: 0px;position: absolute;left: 0;top: 0;bottom: 0;right: 0;margin: auto;}
+
+.elliott {position: absolute;left: 72%;top:110%;}
+
+.hide {position: absolute;width: 150px; height: 0px; left: 0;top: 165px;bottom: 0;right: 0;margin: auto;}
+
+.intro {position: absolute;top: 5%; left: 70%;right: 2%; border: 3px solid #848484;display: inline;}
+
+.titles {font-size: 40px; color: #848484;}
+
+.textes {font-size: 22px;color: #848484;-webkit-animation-name: fadeInOpacity;animation-name: fadeInOpacity;-webkit-animation-iteration-count: 1;animation-iteration-count: 1;-webkit-animation-timing-function: ease-in;animation-timing-function: ease-in;-webkit-animation-duration: 2s;animation-duration: 2s;}
+
+.introtxt {text-align: center}
+
+#particles-js{width: 100%;height: 100%;background-color: #181818;background-image: url('');background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;}
+
+
+
+
+   
